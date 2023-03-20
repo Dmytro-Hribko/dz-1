@@ -2,4 +2,5 @@ dz-1
 name: Dmytro
 last name: Hribko
 @mail: smile4091@gmail.com
+date of birth: 11.06.1994
 years: 28
